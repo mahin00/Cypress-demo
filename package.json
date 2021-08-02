@@ -1,0 +1,15 @@
+{
+  "name": "anikcypresssdemo",
+  "version": "1.0.0",
+  "description": "this is cypress demo working",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
